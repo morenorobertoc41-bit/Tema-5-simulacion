@@ -1,0 +1,7 @@
+package com.carlossystems.simulador.tallerdeelectronicamejorado;
+
+public class Launcher {
+    public static void main(String[] args) {
+        MainApplication.main(args);
+    }
+}
